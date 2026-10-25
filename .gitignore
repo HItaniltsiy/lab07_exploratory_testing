@@ -3,3 +3,7 @@ node_modules/
 .idea/
 
 app.js
+
+# Түр нөөц болон туршилтын өгөгдөл
+backup-before-encoding-fix/
+body.json

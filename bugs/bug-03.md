@@ -27,6 +27,7 @@
 
 ## Нотолгоо
 
+- `../screenshots/T6_year=1000.png`
 - `../screenshots/T7_year=2100.png`
 - `../screenshots/T8_year=2101.png`
 - `../screenshots/T9_year=2020.5.png`
